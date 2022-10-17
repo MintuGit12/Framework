@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T11:36:53 IST" name="Default suite" finished-at="2022-10-14T11:37:36 IST" duration-ms="42976">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T11:36:53 IST" name="Default test" finished-at="2022-10-14T11:37:36 IST" duration-ms="42976">
+      <class name="practice.DataProviderTest">
+        <test-method signature="companyDetails(java.lang.String,java.lang.String)[pri:0, instance:practice.DataProviderTest@cd3fee8]" started-at="2022-10-14T11:36:53 IST" name="companyDetails" data-provider="dataProv_test" finished-at="2022-10-14T11:37:09 IST" duration-ms="15169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Singh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyDetails -->
+        <test-method signature="companyDetails(java.lang.String,java.lang.String)[pri:0, instance:practice.DataProviderTest@cd3fee8]" started-at="2022-10-14T11:37:09 IST" name="companyDetails" data-provider="dataProv_test" finished-at="2022-10-14T11:37:22 IST" duration-ms="13652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyDetails -->
+        <test-method signature="companyDetails(java.lang.String,java.lang.String)[pri:0, instance:practice.DataProviderTest@cd3fee8]" started-at="2022-10-14T11:37:22 IST" name="companyDetails" data-provider="dataProv_test" finished-at="2022-10-14T11:37:36 IST" duration-ms="14100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vijay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Singh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- companyDetails -->
+      </class> <!-- practice.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
