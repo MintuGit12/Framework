@@ -54,11 +54,8 @@ public void createOrganizationTest() throws IOException, InterruptedException
 	home.clickToOrganization();
 	org.clickCreateOrganisation();
 	//Assert.fail();
-	
-	
-	
+	//pullling and pushing
 	System.out.println("pulled");
-	
 	
 	
 	int ranNum = jlib.getRanDomNum();
